@@ -3,7 +3,7 @@ import pandas as pd
 
 def load_diabetes_data(url=None):
     """
-    Loads the Pima Indians Diabetes Dataset.
+    Loads the Pima Indians Diabetes Dataset from a specified URL or path.
     
     Parameters:
         url (str): Optional URL or path to the dataset.
