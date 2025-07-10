@@ -1,4 +1,4 @@
-# Functions to load and return data
+# Functions that load and return data
 import pandas as pd
 
 def load_diabetes_data(url=None):
